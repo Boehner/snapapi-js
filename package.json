@@ -1,0 +1,31 @@
+{
+  "name": "snapapi",
+  "version": "0.2.0",
+  "description": "Official JavaScript SDK for the SnapAPI web intelligence API — screenshots, metadata, PDFs, page analysis, HTML rendering, and batch processing",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "screenshot", "screenshot-api", "web-scraping", "puppeteer-alternative",
+    "playwright-alternative", "headless-browser", "metadata", "pdf",
+    "page-analysis", "html-to-image", "og-image", "snapapi"
+  ],
+  "author": "SnapAPI <hello@snapapi.tech>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Boehner/snapapi-js"
+  },
+  "homepage": "https://snapapi.tech",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ]
+}
