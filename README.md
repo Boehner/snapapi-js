@@ -52,7 +52,7 @@ results.forEach(r => console.log(r.url, r.og_title));
 | Param | Type | Default |
 |---|---|---|
 | `apiKey` | `string` | `process.env.SNAPAPI_KEY` |
-| `options.baseUrl` | `string` | `https://api.snapapi.tech` |
+| `options.baseUrl` | `string` | `https://snapapi.tech` |
 | `options.timeout` | `number` | `45000` |
 
 ### Methods
