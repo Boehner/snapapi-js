@@ -1,6 +1,6 @@
 {
-  "name": "snapapi",
-  "version": "0.2.0",
+  "name": "snapapi-client",
+  "version": "1.0.0",
   "description": "Official JavaScript SDK for the SnapAPI web intelligence API — screenshots, metadata, PDFs, page analysis, HTML rendering, and batch processing",
   "main": "index.js",
   "exports": {
